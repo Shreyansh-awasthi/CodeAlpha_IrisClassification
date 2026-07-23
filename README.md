@@ -13,7 +13,7 @@ This project is part of the **CodeAlpha Data Science Internship**. It classifies
 
 ## 🔧 What This Project Does
 1. **Data Exploration (EDA)** — summary statistics, class balance, correlation, skewness, per-species comparisons
-2. **Visualization** — pairplots, correlation heatmap, boxplots, violin plots, histograms, scatter plots
+2. **Visualization** — pairplots, correlation heatmap, boxplots, violin plots, histograms, scatter plots.
 3. **Preprocessing** — train-test split, feature scaling (StandardScaler)
 4. **Model Training** — 6 classification algorithms:
    - Logistic Regression
